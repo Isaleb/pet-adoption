@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "breadcrumbs.enabled": false
+}
